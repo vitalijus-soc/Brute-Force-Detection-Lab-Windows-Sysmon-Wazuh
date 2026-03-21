@@ -1,1 +1,1 @@
-# Brute-Force-Detection-Lab-Windows-Sysmon-Wazuh-
+# Brute-Force-Detection-Lab-Windows-Sysmon-Wazuh
